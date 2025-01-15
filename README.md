@@ -27,5 +27,4 @@ This project provides a **Seal and Stamp Verification** tool that compares two i
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/self5975051/Stamp-Verification.git
-   cd Stamp-Verification
+   https://github.com/Navin-2305-dev/Seal-and-Stamp-Verification.git
